@@ -1,6 +1,12 @@
 # gen-i18n-html
 Small HTML generator to output multilingual HTML.
 
+## Install
+
+```
+cargo install --git https://github.com/shinshin86/gen-i18n-html.git
+```
+
 ## Usage
 
 ```
